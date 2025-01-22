@@ -14,3 +14,4 @@ Esta aplicación web permite realizar un análisis exploratorio de datos sobre a
 
 ## Instrucciones de Instalación 🛠️
 1. Clona este repositorio en tu máquina local
+2. Entra a https://project-repo-jkax.onrender.com/ para verlo :)
